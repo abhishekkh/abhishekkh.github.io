@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Abhi&#39;s thoughts on Abhi&#39;s blog</title>
+    <title>Abhi&#39;s thoughts on Abhishek Hodavdekar</title>
     <link>https://abhishekkh.github.io/</link>
-    <description>Recent content in Abhi&#39;s thoughts on Abhi&#39;s blog</description>
+    <description>Recent content in Abhi&#39;s thoughts on Abhishek Hodavdekar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 09 Apr 2017 10:58:08 -0400</lastBuildDate>
@@ -53,7 +53,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://abhishekkh.github.io/contact/</guid>
-      <description>This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the the shortcode to make it work. Check out Formspree for a simple, free form service.</description>
+      <description>Feel free to reach out to me using my linkedin profile or by submitting the form below. Cheers! 👋
+Your Name Email Address An email address is required.  Message   </description>
     </item>
     
   </channel>
