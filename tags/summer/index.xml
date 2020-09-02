@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>summer on Abhishek Hodavdekar</title>
+    <link>https://abhishekkh.github.io/tags/summer/</link>
+    <description>Recent content in summer on Abhishek Hodavdekar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Aug 2020 10:58:08 -0400</lastBuildDate>
+    
+	<atom:link href="https://abhishekkh.github.io/tags/summer/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Summer of Covid &amp; how we beat it</title>
+      <link>https://abhishekkh.github.io/post/summer-of-covid/</link>
+      <pubDate>Sat, 15 Aug 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://abhishekkh.github.io/post/summer-of-covid/</guid>
+      <description>Texas is known for 2 things - the bbq and Texas summer heat.</description>
+    </item>
+    
+  </channel>
+</rss>

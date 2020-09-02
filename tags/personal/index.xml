@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>personal on Abhishek Hodavdekar</title>
+    <link>https://abhishekkh.github.io/tags/personal/</link>
+    <description>Recent content in personal on Abhishek Hodavdekar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Aug 2020 10:58:08 -0400</lastBuildDate>
+    
+	<atom:link href="https://abhishekkh.github.io/tags/personal/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>You need to start somewhere</title>
+      <link>https://abhishekkh.github.io/post/first-post/</link>
+      <pubDate>Sat, 01 Aug 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://abhishekkh.github.io/post/first-post/</guid>
+      <description>I have always wanted to write a blog but never actually found the time or energy to do this. It feels great to finally be able to carve out some time and publish my view on different topics I care about. Again these are just my opinions and not meant to harm anyone.
+I came to the United States as a student pursuing my Masters 🎓 in August 2006. I can&amp;rsquo;t believe that it&amp;rsquo;s been 14 years now.</description>
+    </item>
+    
+  </channel>
+</rss>
