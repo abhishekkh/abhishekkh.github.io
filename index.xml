@@ -17,7 +17,8 @@
       <pubDate>Fri, 21 Aug 2020 10:58:08 -0400</pubDate>
       
       <guid>https://abhishekkh.github.io/post/learn-go/</guid>
-      <description></description>
+      <description>Learning Go has always been on my todo list for a few years. It has been gaining in popularity recently and is one of the top languages developers want to learn in 2020. Or maybe the Go song inspired me 😆
+  I started with the Tour of GO to learn the basic syntax and data structures. Its a great learning resource with a few exercises thrown in. My main motive was to learn about Concurrency in GO, which is where GO seems to score with developers.</description>
     </item>
     
     <item>
